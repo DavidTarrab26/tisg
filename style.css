@@ -1,0 +1,100 @@
+body {
+    text-align: center;
+}
+.boton{
+    background-color: black;
+    color: beige;
+    border-radius: 20%;
+}
+.btn-inicio{
+    background-color: rgb(209, 141, 209);
+    border-radius: 20%;
+    font-size: 15px;
+    font-style: italic;
+}
+.cont-caja-inicio{
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px rgb(209, 141, 209);
+    height: 315px;
+    width: 40%;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+.btn-desv{
+    background-color: rgb(236, 109, 109);
+    border-radius: 20%;
+    font-size: 15px;
+    font-style: italic;
+}
+.cont-caja-desv{
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px rgb(236, 109, 109);
+    height: 315px;
+    width: 40%;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+.btn-vent{
+    background-color: rgb(145, 240, 145);
+    border-radius: 20%;
+    font-size: 15px;
+    font-style: italic;
+}
+.cont-caja-vent{
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px  rgb(145, 240, 145);
+    height: 300px;
+    width: 40%;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+.btn-solu{
+    background-color: rgb(145, 218, 240);
+    border-radius: 20%;
+    font-size: 15px;
+    font-style: italic;
+}
+.cont-caja-solu{
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px  rgb(145, 218, 240);
+    height: 300px;
+    width: 40%;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+.cont-title{
+    margin: 50px 0px ;
+}
+.title {
+    color: black;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: underline;
+    font-style: oblique;
+}
+.conten {
+    background-color: white;
+    border-radius: 2%;
+    width: 70%;
+    margin: 0 auto;
+}
+.cont-inicio{
+    display: flex;
+    justify-content: space-around;
+}
+.txt {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
+footer{
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #888888;
+}
